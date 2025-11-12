@@ -57,23 +57,25 @@ high-level summaries and detailed breakdowns.
      average monthly income to analyze pay structure dependencies.
    
 4. Interactivity
+   
    • Dynamic Filters:🖱️Includes interactive slicers for Gender and Education Field to
      allow users to segment the data and perform targeted analysis.
    
 ⭐Highlights✅ 
 
     • Actionable Insights: Directly links employee metrics (r.g., low
-      satisfaction) to business outcomes (r.g., high attrition), guiding HR
-      strategy.
+      satisfaction) to business outcomes (r.g., high attrition), guiding
+      HR strategy.
       
-    • Interactive Design: Utilizes Power BI's capabilities to allow users to
-      dril-down and filter data, replacing static reports with a dynamic
-      analytical tool.
+    • Interactive Design: Utilizes Power BI's capabilities to allow
+      users to dril-down and filter data, replacing static reports with
+      a dynamic analytical tool.
       
-    • Key Demographic Focus:🧑‍🤝‍🧑 Provides critical views on gender, age, and
-      education, supporting Diversity, Equity, and Inclusion(DEI)initiatives.
+    • Key Demographic Focus:🧑‍🤝‍🧑 Provides critical views on gender, age,
+      and education, supporting Diversity, Equity, and Inclusion(DEI)
+      initiatives.
       
-    • Compensation Transparency:💵 Clearly visualizes salary distributions to
-      aid in benchmarking and addressing potential pay gaps.
+    • Compensation Transparency:💵 Clearly visualizes salary distributions
+      to aid in benchmarking and addressing potential pay gaps.
       
    5. Show what the dashboard looks like: https://github.com/archana07012002/HR-     Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
