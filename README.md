@@ -49,4 +49,4 @@ high-level summaries and detailed breakdowns.
       supporting Diversity, Equity, and Inclusion(DEI)initiatives.
     • Compensation Transparency:💵 Clearly visualizes salary distributions to aid in
       benchmarking and addressing potential pay gaps.
-   5. Show what the dashboard looks like.- 
+   5. Show what the dashboard looks like.- https://github.com/archana07012002/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
